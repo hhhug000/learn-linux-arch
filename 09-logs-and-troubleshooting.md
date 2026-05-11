@@ -1,8 +1,6 @@
 # Logs and troubleshooting
 [<< Previous](08-networking-fundamentals.md) | [Next >>](10-arch-installation-overview.md)
 
-Quiz: [Logs and troubleshooting](quiz/09-logs-and-troubleshooting-quiz.md)
-
 Logs tell you what the system is doing and why something failed. Learning to read logs is one of the fastest ways to fix issues on Arch.
 
 ## Contents
@@ -143,6 +141,8 @@ When something breaks, use a simple loop:
 5. Test the fix and document what worked.
 
 Keeping notes in a small troubleshooting log helps you solve the same issue faster next time.
+
+Quiz: [Logs and troubleshooting](quiz/09-logs-and-troubleshooting-quiz.md)
 
 [<< Previous](08-networking-fundamentals.md) | [Next >>](10-arch-installation-overview.md)
 

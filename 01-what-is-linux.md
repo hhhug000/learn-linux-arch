@@ -1,8 +1,6 @@
 # What is Linux?
 [<< Previous](README.md) | [Next >>](02-common-commands.md)
 
-Quiz: [What is Linux?](quiz/01-what-is-linux-quiz.md)
-
 Linux is a free and open-source operating system kernel that powers many full operating systems, from servers and desktops to phones and embedded devices. In this module, you will learn what a kernel is, how a Linux distribution is assembled, and why Arch Linux is a popular choice for hands-on learning.
 
 ## Contents
@@ -22,6 +20,8 @@ Linux distributions bundle the Linux kernel with userland programs (like GNU too
 
 ## Why Arch for learning
 Arch keeps things minimal and transparent, so you build your system step by step. That makes it a strong learning environment: you see what each component does and how the system fits together.
+
+Quiz: [What is Linux?](quiz/01-what-is-linux-quiz.md)
 
 [<< Previous](README.md) | [Next >>](02-common-commands.md)
 

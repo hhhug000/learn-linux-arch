@@ -1,8 +1,6 @@
 # Networking fundamentals
 [<< Previous](07-shell-basics-and-scripting.md) | [Next >>](09-logs-and-troubleshooting.md)
 
-Quiz: [Networking fundamentals](quiz/08-networking-fundamentals-quiz.md)
-
 Networking basics help you understand how your system connects to the internet and other devices. This module focuses on the most common tools and concepts you will use on Arch.
 
 ## Contents
@@ -149,6 +147,8 @@ sudo ufw allow ssh
 ```
 
 If you prefer `nftables`, start with the default template and build rules carefully. Misconfigured firewall rules can lock you out of remote systems, so always test from a local session first.
+
+Quiz: [Networking fundamentals](quiz/08-networking-fundamentals-quiz.md)
 
 [<< Previous](07-shell-basics-and-scripting.md) | [Next >>](09-logs-and-troubleshooting.md)
 

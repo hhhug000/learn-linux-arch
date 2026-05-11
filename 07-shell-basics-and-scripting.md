@@ -1,8 +1,6 @@
 # Shell basics and scripting
 [<< Previous](06-system-services-systemd.md) | [Next >>](08-networking-fundamentals.md)
 
-Quiz: [Shell basics and scripting](quiz/07-shell-basics-and-scripting-quiz.md)
-
 The shell is the program that reads your commands and runs them. On Arch, the default is usually `bash`, so when you type in a terminal, you are talking to Bash (unless you have changed it). Learning the shell well makes every other Linux task easier.
 
 ## Contents
@@ -284,6 +282,8 @@ done < file.txt
 ```
 
 The shell is powerful, but small mistakes can be dangerous. Start with simple scripts and add complexity only when you are comfortable.
+
+Quiz: [Shell basics and scripting](quiz/07-shell-basics-and-scripting-quiz.md)
 
 [<< Previous](06-system-services-systemd.md) | [Next >>](08-networking-fundamentals.md)
 
