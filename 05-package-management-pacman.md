@@ -13,6 +13,7 @@ Package management is one of the biggest differences between Linux and other ope
 5. [Package files and caches](#package-files-and-caches)
 6. [Arch repos and the AUR](#arch-repos-and-the-aur)
 7. [AUR helper: yay](#aur-helper-yay)
+8. [Yay vs manual AUR](#yay-vs-manual-aur)
 
 ## Updating the system
 On Arch, you typically update everything at once. This keeps the system consistent.
@@ -109,7 +110,25 @@ yay -S google-chrome # Install an AUR package
 yay -Ss terminal # Search across repos and AUR
 ```
 
+Installing `yay` (manual AUR build):
+
+```bash
+sudo pacman -S --needed base-devel git
+git clone https://aur.archlinux.org/yay.git
+cd yay
+less PKGBUILD # Review build steps
+makepkg -si
+```
+
 Even with a helper, take time to read PKGBUILD and prompts when installing from the AUR. If something looks off, cancel and investigate before proceeding.
+
+## Yay vs manual AUR
+Use this as a quick mental checklist before deciding:
+
+| Approach | Pros | Cons | Best for |
+| --- | --- | --- | --- |
+| Manual AUR (`makepkg`) | Maximum transparency, best for learning | Slower, more steps | First-time users, security-conscious setups |
+| `yay` helper | Fast, convenient, unified search | Easy to skip review, hides steps | Experienced users who still review PKGBUILD |
 
 [<< Previous](04-users-and-permissions.md) | [Next >>](06-system-services-systemd.md)
 
