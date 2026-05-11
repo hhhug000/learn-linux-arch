@@ -1,6 +1,8 @@
 # Users and permissions
 [<< Previous](03-filesystem-basics.md) | [Next >>](05-package-management-pacman.md)
 
+Quiz: [Users and permissions](quiz/04-users-and-permissions-quiz.md)
+
 Linux is a multi-user system. Every file and process has an owner, a group, and a set of permissions that decide who can read, write, or execute it. Understanding these basics prevents accidental damage and helps you troubleshoot access problems.
 
 ## Contents

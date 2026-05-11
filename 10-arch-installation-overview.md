@@ -1,6 +1,8 @@
 # Arch installation overview
 [<< Previous](09-logs-and-troubleshooting.md) | [Next >>](README.md)
 
+Quiz: [Arch installation overview](quiz/10-arch-installation-overview-quiz.md)
+
 Arch can be installed manually or with the `archinstall` guided installer. This module explains the big-picture steps so you understand what the installer is doing and why each decision matters.
 
 ## Contents

@@ -1,6 +1,8 @@
 # Common commands
 [<< Previous](01-what-is-linux.md) | [Next >>](03-filesystem-basics.md)
 
+Quiz: [Common commands](quiz/02-common-commands-quiz.md)
+
 This module introduces everyday commands you will use to move around the filesystem, inspect files, and manage processes. Focus on understanding what each command does before memorizing flags.
 
 ## Contents

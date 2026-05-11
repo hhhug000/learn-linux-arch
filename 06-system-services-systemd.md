@@ -1,6 +1,8 @@
 # System services (systemd)
 [<< Previous](05-package-management-pacman.md) | [Next >>](07-shell-basics-and-scripting.md)
 
+Quiz: [System services (systemd)](quiz/06-system-services-systemd-quiz.md)
+
 Arch uses `systemd` to manage system services, startup, and logs. A service is a background process (like networking or a web server) that can be started, stopped, and enabled at boot.
 
 ## Contents

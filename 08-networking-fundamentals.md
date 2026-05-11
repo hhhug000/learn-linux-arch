@@ -1,6 +1,8 @@
 # Networking fundamentals
 [<< Previous](07-shell-basics-and-scripting.md) | [Next >>](09-logs-and-troubleshooting.md)
 
+Quiz: [Networking fundamentals](quiz/08-networking-fundamentals-quiz.md)
+
 Networking basics help you understand how your system connects to the internet and other devices. This module focuses on the most common tools and concepts you will use on Arch.
 
 ## Contents

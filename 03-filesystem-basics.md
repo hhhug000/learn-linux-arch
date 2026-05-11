@@ -1,6 +1,8 @@
 # Filesystem basics
 [<< Previous](02-common-commands.md) | [Next >>](04-users-and-permissions.md)
 
+Quiz: [Filesystem basics](quiz/03-filesystem-basics-quiz.md)
+
 Linux treats almost everything as a file. That idea makes the system consistent: regular documents, devices, and even system information can be read or written using the same tools.
 
 ## Contents

@@ -1,6 +1,8 @@
 # Package management (pacman)
 [<< Previous](04-users-and-permissions.md) | [Next >>](06-system-services-systemd.md)
 
+Quiz: [Package management (pacman)](quiz/05-package-management-pacman-quiz.md)
+
 Arch uses `pacman` to install, remove, and update software. It is fast and consistent, but you should use it carefully because Arch is a rolling-release system and updates can change system behavior.
 
 Package management is one of the biggest differences between Linux and other operating systems. Instead of downloading random installers, you use trusted repositories that keep software updated and consistent with the rest of your system.
