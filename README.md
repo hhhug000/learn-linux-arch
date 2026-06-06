@@ -1,6 +1,6 @@
 # Learn Linux - Arch Edition
 
-This repo is a guide for learning Linux (Specifically Arch Linux), with instructions, quizzes, notes, and activities to help you learn.
+This repo is a guide for learning Linux (Specifically Arch Linux), with instructions, quizzes, notes, and, in the future, activities to help you learn.
 
 ## Contents:
 1. [What is Linux?](01-what-is-linux.md)
