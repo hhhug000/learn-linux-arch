@@ -2,6 +2,8 @@
 
 This repo is a guide for learning Linux (Specifically Arch Linux), with instructions, quizzes, notes, and, in the future, activities to help you learn.
 
+ All quizzes are attached to the instructional pages
+
 ## Contents:
 1. [What is Linux?](01-what-is-linux.md)
 2. [Common commands](02-common-commands.md)
